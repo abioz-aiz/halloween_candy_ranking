@@ -8,7 +8,7 @@ This is my submission for the Maven Analytics Challenge for the Halloween Candy 
 Using online votes ranking 85 types of candy, your task is to find the 3 treats you'll give out on Halloween to guarantee that trick-or-treaters of all tastes find something they'll love and present the data to back up your decision.
 
 
-## About Dataset
+## Data Description
 
 The provided dataset is a collection of candy characteristics, offering insights into various properties that might influence their popularity or success. The dataset consists of 85 entries and includes 13 columns.
 
