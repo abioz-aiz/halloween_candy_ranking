@@ -85,7 +85,7 @@ Lastly, I chose Vertical bar charts and scatter plot as the best options to visu
 
 ## Resultant Dashboard
 
-![image]([abioz-aiz/halloween_candy_ranking/Dashboard 1 (1).png](https://github.com/abioz-aiz/halloween_candy_ranking/blob/main/Dashboard%201%20(1).png))
+![Candy Clash](https://github.com/abioz-aiz/halloween_candy_ranking/blob/main/Dashboard%201%20(1).png)
 
 ## Challenges
 
