@@ -85,7 +85,8 @@ Lastly, I chose Vertical bar charts and scatter plot as the best options to visu
 
 ## Resultant Dashboard
 
-![Candy Clash](Dashboard 1 (1).png "Candy Clash")
+![image]([abioz-aiz/halloween_candy_ranking/Dashboard 1 (1).png](https://github.com/abioz-aiz/halloween_candy_ranking/blob/main/Dashboard%201%20(1).png))
+
 ## Challenges
 
 It was challenging to work with multilabelled data in tableau. As this was my first project, it was difficult to understand how to structure the dashboard. 
