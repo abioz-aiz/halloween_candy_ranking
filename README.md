@@ -1,7 +1,7 @@
 
 # Halloween Candy Rankings
 
-This is my submission for the Maven Analytics Challenge for the Halloween Candy Ratings Dataset, Oct 2024
+This is my submission for the [Maven Analytics Challenge](https://mavenanalytics.io/challenges/maven-halloween-challenge/701f06a2-a19b-41e9-95d3-37a0dcc5492f) for the Halloween Candy Ratings Dataset, Oct 2024
 
 ### Problem Statement: 
  
